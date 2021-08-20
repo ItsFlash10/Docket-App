@@ -30,6 +30,13 @@ html {
     position:absolute;
     display: block;
   }
+
+  .info{
+    position: absolute;
+    margin-top: 8.8rem;
+    font-size: 0.68em;
+    color: rgb(153, 153, 153);
+  }
   
   .container {
     position: fixed;
